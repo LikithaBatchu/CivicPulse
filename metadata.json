@@ -1,0 +1,6 @@
+{
+  "name": "CivicPulse",
+  "description": "Smart City Issue Reporter & Visualizer with live map, civic health heatmap, and AI categorization.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
